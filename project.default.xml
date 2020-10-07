@@ -1,0 +1,24 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <bytecodeTargetLevel target="11" />
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\workSpace\~MAVEN\repository" />
+            <option name="mavenHome" value="D:/workSpace/~MAVEN/apache-maven-3.6.0" />
+            <option name="userSettingsFile" value="D:\workSpace\~MAVEN\apache-maven-3.6.0\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="File.Encoding" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
